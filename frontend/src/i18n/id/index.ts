@@ -6,7 +6,7 @@ const translation = {
       },
     },
     app: {
-      name: 'Bedrock Chat',
+      name: 'Fairfax Chat',
       inputMessage: 'Bisakah Saya Membantu Anda?',
       starredBots: 'Bot Favorit',
       recentlyUsedBots: 'Bot yang Baru Digunakan',

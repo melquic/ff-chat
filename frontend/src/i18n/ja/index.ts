@@ -9,7 +9,7 @@ const translation: typeof en = {
       },
     },
     app: {
-      name: 'Bedrock Chat',
+      name: 'Fairfax Chat',
       inputMessage: 'お手伝いできることはありますか？',
       starredBots: 'スター付きのボット',
       recentlyUsedBots: '最近使用したボット',
